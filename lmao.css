@@ -1,0 +1,23 @@
+
+footer,harsh{
+    color:aqua
+}
+#lol{
+    color: rgb(229, 75, 75)
+}
+#yolo1{
+    background-color: aqua;
+    border: 4px dashed blue;
+    border-radius: 7px;
+    padding-left: 7px;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+#pic{
+    position: center;
+    padding-left: .5vw;
+}
+body {
+  background-image:url("rick.jpg");
+  background-color: rgb(160, 249, 240);
+}

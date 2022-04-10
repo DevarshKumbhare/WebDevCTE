@@ -1,1 +1,2 @@
-this is html@ rec1
+Thanks for submitting!!!
+name="name"
